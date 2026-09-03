@@ -1,10 +1,10 @@
-﻿# 👋 안녕하세요! 성장을 즐기는 개발자 한태입니다.
+﻿# 👋 안녕하세요! 한태입니다.
 
 <div align="center">
 
 # 🚀 Developer Profile: gksxogksxo1001-sketch
 
-**"견고한 백엔드 아키텍처와 직관적인 사용자 경험(UX)을 만드는 풀스택 개발자"**
+**"견고한 백엔드 아키텍처와 직관적인 사용자 경험(UX)을 만드는 풀스택 개발자을 목표로 하는 !"**
 
 ![GitHub Followers](https://img.shields.io/github/followers/gksxogksxo1001-sketch?label=Followers&style=for-the-badge&logo=github&color=2ea44f)
 ![GitHub Repositories](https://img.shields.io/badge/Repositories-4_Projects-blue?style=for-the-badge&logo=github&color=007ec6)
