@@ -6,7 +6,8 @@
 
 **"견고한 백엔드 아키텍처와 직관적인 사용자 경험(UX)을 만드는 풀스택 개발자"**
 
-[![GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgksxogksxo1001-sketch&count_bg=%237952B3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/gksxogksxo1001-sketch)
+![GitHub Followers](https://img.shields.io/github/followers/gksxogksxo1001-sketch?label=Followers&style=for-the-badge&logo=github&color=2ea44f)
+![GitHub Repositories](https://img.shields.io/badge/Repositories-4_Projects-blue?style=for-the-badge&logo=github&color=007ec6)
 
 </div>
 
@@ -55,12 +56,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Core Status & Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gksxogksxo1001-sketch&show_icons=true&theme=radial&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gksxogksxo1001-sketch&layout=compact&theme=radial&hide_border=true" width="48%" />
+![Java Core](https://img.shields.io/badge/Primary_Language-Java_/_TypeScript-FF7B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Clean_Architecture-990000?style=for-the-badge&logo=spring&logoColor=white)
+![Deployment Status](https://img.shields.io/badge/Deployment-Docker_&_Railway-00C853?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
